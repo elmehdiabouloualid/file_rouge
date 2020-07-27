@@ -14,7 +14,7 @@
     echo "<div class='container-fluid' style='width:75%; margin-top:50px; background-color: #c11325; color:#ffffff;'>
     <div class'card'>
     <div class='card-body'>
-    <a href='trainer_details.php' class='btn brn-light' style='background-color: #fff; color: #000; border: none; cursor: pointer;' >Go Back</a></div>
+    <a href='../view/trainer_details.php' class='btn brn-light' style='background-color: #fff; color: #000; border: none; cursor: pointer;' >Go Back</a></div>
     <table class='table table-hover'>
     <thead>
      <tr>

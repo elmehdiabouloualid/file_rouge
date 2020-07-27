@@ -66,7 +66,7 @@
          <div class="row">
              <div class="col-md-3"><h3>Members Details</h3></div>
              <div class="col-md-8">
-          <form class="form-group" action="../model/membre_search.php" method="post">
+          <form class="form-group" action="../view/membre_search.php" method="post">
           <div class="row">
    <div class="col-md-10">
     <input type="text" name="search" class="form-control" placeholder="enter contact"></div>

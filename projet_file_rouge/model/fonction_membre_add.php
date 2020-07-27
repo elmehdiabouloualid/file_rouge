@@ -1,6 +1,6 @@
 <?php 
 require_once('Connection.php');
-session_start();
+
 
 //add_membre
    
@@ -80,7 +80,7 @@ if(isset($_POST['Pack_submit']))
         }
         {
             echo "<script>alert('error.')</script>";
-            echo "<script>window.open('../view/payment.php','_self')</script>";
+            echo "<script>window.open('../view/package.php','_self')</script>";
         }
         } 
 ?>
